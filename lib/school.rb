@@ -14,8 +14,9 @@ class School
     @roster = roster
   end
 
-  #create value and keys
-  #value => keys
+  def add_student(name, grade)
+    
+  end
   
 end
 
