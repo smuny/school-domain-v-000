@@ -13,9 +13,6 @@ class School
     @roster = roster
   end
 
-  :roster = {
-    :key => ["hash"]
-  }
   #create value and keys
   #value => keys
   
