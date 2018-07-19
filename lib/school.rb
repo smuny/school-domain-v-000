@@ -18,10 +18,5 @@ class School
   
 end
 
-#NEWWWWWW
 
-school = School.new
-                   #reader method
 
-roster = School.new
-roster.school_properties = "grade levels"
