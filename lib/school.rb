@@ -21,8 +21,7 @@ end
 #NEWWWWWW
 
 school = School.new
-school.school_properties = "Bayside High School" #writer method
-puts school.school_properties                    #reader method
+                   #reader method
 
 roster = School.new
 roster.school_properties = "grade levels"
